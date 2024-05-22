@@ -1,0 +1,10 @@
+Power supply:
+    Optonica 6206, AC36-A2
+    Input: 100-240V, 50/60Hz, AC
+    Output: 24V, 1.5A, 36W, DC
+
+Light strip:
+    24V DC, COB, 320 LED/m, DOTLESS, 11 W/m, 4000K
+
+Switches:
+    Round 20mm SPST rocker switches
